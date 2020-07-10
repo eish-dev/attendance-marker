@@ -1,3 +1,3 @@
 # attendance-marker
 
-This is application is for marking attendance.
+This application is for marking attendance.
